@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13722" started-at="2018-08-21T07:23:20Z" finished-at="2018-08-21T07:23:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13722" started-at="2018-08-21T07:23:20Z" finished-at="2018-08-21T07:23:34Z">
+      <class name="acti.Login">
+        <test-method status="PASS" signature="loginMethod()[pri:0, instance:acti.Login@10b40af]" name="loginMethod" duration-ms="13662" started-at="2018-08-21T07:23:20Z" finished-at="2018-08-21T07:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+      </class> <!-- acti.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
